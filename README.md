@@ -2,7 +2,7 @@
 
 Welcome to the Modern Chair Project! This project is a CSS website designed to showcase modern chair designs and provide information about each chair's features and characteristics. The website aims to create an aesthetically pleasing and user-friendly experience for visitors interested in contemporary chair designs.The Modern Chair Project is a static website developed purely with HTML and CSS. The goal of this project is to practice and demonstrate CSS skills while creating an attractive and responsive design for showcasing modern chair designs.
 
-[Demo]()
+[Demo](https://rutiktorambe.github.io/Modern-Chairs/)
 
 
 ## Technologies Used:-
